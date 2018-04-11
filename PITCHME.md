@@ -3,7 +3,6 @@
 
 ### Coffee With A View
 ---?image=assets/image/bg.jpg
----
 
 ## Developers
 <br>
@@ -13,9 +12,10 @@
 ##### Sonam Benakatti
 ##### Ruchi Shekar
 ---?image=assets/image/bg.jpg
----
 
-## Template Features
+## Demonstration
+
+@fa[external-link](espressoyoself.me)
 
 - Code Presenting |
 - Repo Source, Static Blocks, GIST |
@@ -24,13 +24,7 @@
 - Background Image Scaling |
 - Custom Logo, TOC, and Footnotes |
 
----?code=sample/go/server.go&lang=golang&title=Golang File
-
-@[1,3-6](Present code found within any repo source file.)
-@[8-18](Without ever leaving your slideshow.)
-@[19-28](Using GitPitch code-presenting with (optional) annotations.)
-
----
+---?image=assets/image/bg.jpg
 
 @title[JavaScript Block]
 
