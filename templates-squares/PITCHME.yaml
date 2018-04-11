@@ -7,7 +7,7 @@
 theme : sky
 theme-override : assets/css/PITCHME.css
 logo : assets/image/logo.png
-background : assets/image/squares.svg
+background : assets/image/bg.jpg
 background-size : cover
 highlight : atom-one-dark
 transition : none
