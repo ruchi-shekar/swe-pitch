@@ -22,14 +22,14 @@
 ## Self Critique
 
 - What did we do well?
-  > Something we did well.
-  > Something we did well.
+  - Something we did well.
+  - Something we did well.
 
 - What did we learn?
-  > Something we learned.
-  > Something we learned.
+  - Something we learned.
+  - Something we learned.
 
----?image=assets/image/squares.svg
+---?image=assets/image/yellow-block.jpg
 
 @title[JavaScript Block]
 
