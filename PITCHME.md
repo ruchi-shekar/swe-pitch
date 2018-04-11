@@ -19,6 +19,18 @@
 
 ---?image=assets/image/bg.jpg
 
+## Self Critique
+
+- What did we do well?
+  > Something we did well.
+  > Something we did well.
+
+- What did we learn?
+  > Something we learned.
+  > Something we learned.
+
+---?image=assets/image/squares.svg
+
 @title[JavaScript Block]
 
 <p><span class="slide-title">JavaScript Block</span></p>
@@ -104,8 +116,3 @@ http.createServer(function (request, response) {
 @fa[medium gp-contact](@gitpitch)
 
 ---?image=assets/image/gitpitch-audience.jpg
-
-@title[Download this Template!]
-
-### <span class="white">Get your presentation started!</span>
-### [Download this template @fa[external-link gp-download]](https://gitpitch.com/template/download/squares)
