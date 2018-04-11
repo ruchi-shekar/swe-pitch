@@ -2,8 +2,8 @@
 ## espressoyoself.me
 
 ### Coffee With A View
----?image=assets/image/bg.jpg
 
+---
 ## Developers
 <br>
 ##### Amrutha Sreedharane
@@ -11,13 +11,13 @@
 ##### Jenni Rethi
 ##### Sonam Benakatti
 ##### Ruchi Shekar
----?image=assets/image/bg.jpg
 
+---
 ## Demonstration
 
 [espressoyoself.me](http://espressoyoself.me)
 
----?image=assets/image/bg.jpg
+---?image=assets/image/yellow-block.jpg
 
 ## Self Critique
 
@@ -30,6 +30,16 @@
   - Something we learned.
 
 ---?image=assets/image/yellow-block.jpg
+
+## Self Critique
+
+- What can we do better?
+  - Something we did bad.
+  - Something we did bad.
+
+- What puzzles us?
+  - Puzzling
+  - Puzzling
 
 @title[JavaScript Block]
 
