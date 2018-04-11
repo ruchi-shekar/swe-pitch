@@ -1,18 +1,18 @@
 @title[Introduction]
-# espressoyoself.me
+## espressoyoself.me
 
 ### Coffee With A View
 ---?image=assets/image/bg.jpg
 ---
 
-## Tips!
-
+## Developers
 <br>
-
-@fa[arrows gp-tip](Press F to go Fullscreen)
-
-@fa[microphone gp-tip](Press S for Speaker Notes)
-
+##### Amrutha Sreedharane
+##### Jaemin Goh
+##### Jenni Rethi
+##### Sonam Benakatti
+##### Ruchi Shekar
+---?image=assets/image/bg.jpg
 ---
 
 ## Template Features
