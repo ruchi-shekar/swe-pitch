@@ -15,14 +15,7 @@
 
 ## Demonstration
 
-@fa[external-link](espressoyoself.me)
-
-- Code Presenting |
-- Repo Source, Static Blocks, GIST |
-- Custom CSS Styling |
-- Slideshow Background Images |
-- Background Image Scaling |
-- Custom Logo, TOC, and Footnotes |
+[espressoyoself.me](espressoyoself.me)
 
 ---?image=assets/image/bg.jpg
 
