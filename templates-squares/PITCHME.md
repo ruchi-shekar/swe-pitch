@@ -3,6 +3,7 @@
 
 ### Coffee With A View
 ---?image=assets/image/bg.jpg
+---
 
 ## Tips!
 
