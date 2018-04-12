@@ -12,4 +12,5 @@ background-size : cover
 highlight : atom-one-dark
 transition : none
 published : true
+layout: center-left
 footnote : "GitPitch Pro [ Squares ] Presentation Template"
