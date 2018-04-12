@@ -6,7 +6,7 @@
 #
 theme : moon
 theme-override : assets/css/PITCHME.css
-logo : assets/image/logo.png
+# logo : assets/image/logo.png
 background : assets/image/bg.jpg
 background-size : cover
 highlight : atom-one-dark
