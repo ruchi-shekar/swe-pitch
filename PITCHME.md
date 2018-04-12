@@ -67,7 +67,6 @@
 
 ---
 ### Visualization
----
+
 ---
 ### Questions?
----
