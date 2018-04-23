@@ -34,12 +34,12 @@ We allow the user to find a place to grab a coffee, and then head over to a near
 
 ## Self Critique
 
-- What did we do well?
+- **What did we do well?**
   - Communicated well and evenly distributed the work
   - Started early on the projects
   - Asked questions when we got stuck
 
-- What did we learn?
+- **What did we learn?**
   - Learned a lot fo new languages and frameworks.
   - Learned about version control and handling merge conflicts.
   - Learned how to create a dynamic website from scratch.
@@ -48,12 +48,12 @@ We allow the user to find a place to grab a coffee, and then head over to a near
 
 ## Self Critique
 
-- What can we do better?
+- **What can we do better?**
   - Could have researched the frameworks more before starting.
   - Could have added more features/visualizations.
   - Could have learned more about the tools we used.
 
-- What puzzles us?
+- **What puzzles us?**
   - Webpack and the bundle.js
   - Merge conflicts and handling them properly
   - Pros and cons of doing functions in the backend vs frontend
@@ -62,12 +62,12 @@ We allow the user to find a place to grab a coffee, and then head over to a near
 
 ## Other Critique
 
-- What did they do well?
+- **What did they do well?**
   - There website looks very clean and put together
   - Very useful idea
   - Tie all three of their models together really well
 
-- What did we learn from their API/website?
+- **What did we learn from their API/website?**
   - Learned about flask-restless
   - Learned about react-js-pagination
 
@@ -75,12 +75,12 @@ We allow the user to find a place to grab a coffee, and then head over to a near
 
 ## Other Critique
 
-- What can they do better?
+- **What can they do better?**
   - Cross browser and mobile compatiblity
   - Better formatting on instance pages
   - Include the state on restaurants intstances
 
-- What puzzles us about their API/website?
+- **What puzzles us about their API/website?**
   - Don't know why website displays unformatted HTML first
   - Don't know why it has inconsistencies on multiple browsers
 
