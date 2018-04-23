@@ -12,9 +12,13 @@ We allow the user to find a place to grab a coffee, and then head over to a near
 ## Developers
 <br>
 Amrutha Sreedharane | Backend 
+<br>
 Jaemin Goh          | Backend, Frontend
+<br>
 Jenni Rethi         | Backend, Frontend
+<br>
 Sonam Benakatti     | Frontend
+<br>
 Ruchi Shekar        | Frontend
 
 ---
