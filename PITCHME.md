@@ -7,9 +7,7 @@
 ## What Are We?
 
 - We allow the user to find a place to grab a coffee, and then head over to a nearby scenic view to enjoy it at. With the help of Google Maps, Yelp, and Flickr we've used the power of location so that you can find a sip and a relaxing spot wherever you are. 
-
-
-___
+---
 
 ## Developers
 <br>
