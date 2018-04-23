@@ -10,7 +10,7 @@ theme-override : assets/css/PITCHME.css
 background : assets/image/bg.jpg
 background-size : cover
 highlight : atom-one-dark
-transition : slide
+transition : fade
 published : true
 layout: center-left
 footnote : "GitPitch Pro [ Squares ] Presentation Template"
