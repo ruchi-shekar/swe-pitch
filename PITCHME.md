@@ -27,23 +27,23 @@ We allow the user to find a place to grab a coffee, and then head over to a near
 ## Self Critique
 
 - What did we do well?
-  - We communicated well and evenly distributed the work between members.
-  - We started early on the projects so that we wouldn't be rushed at the end.
-  - We asked questions when we got stuck.
+  - Communicated well and evenly distributed the work
+  - Started early on the projects
+  - Asked questions when we got stuck
 
 - What did we learn?
-  - We learned a lot fo new languages and frameworks.
-  - We learned extensively about version control and handling merge conflicts.
-  - We learned how to create a dynamic website from scratch.
+  - Learned a lot fo new languages and frameworks.
+  - Learned extensively about version control and handling merge conflicts.
+  - Learned how to create a dynamic website from scratch.
 
 ---
 
 ## Self Critique
 
 - What can we do better?
-  - We could have researched the frameworks more before jumping in to code.
-  - We could have added more features and visualizations on our site.
-  - Learn more about the tools we are using instead of copying code.
+  - Could have researched the frameworks more before jumping in to code.
+  - Could have added more features/visualizations.
+  - Could have learned more about the tools we used.
 
 - What puzzles us?
   - Webpack and the bundle.js
@@ -73,7 +73,7 @@ We allow the user to find a place to grab a coffee, and then head over to a near
   - Include the state on restaurants intstances
 
 - What puzzles us about their API/website?
-  - Don't know why website displays unformatted HTML before loading
+  - Don't know why website displays unformatted HTML first
   - Don't know why it has inconsistencies on multiple browsers
 
 ---
