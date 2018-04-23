@@ -87,5 +87,7 @@ Ruchi Shekar        | Frontend
 ---
 ## Visualization
 
+[espressoyoself.me/visualization](http://espressoyoself.me/shops)
+
 ---
 ## Questions?
