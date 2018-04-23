@@ -11,19 +11,19 @@ We allow the user to find a place to grab a coffee, and then head over to a near
 
 ## Developers
 <br>
-Amrutha Sreedharane | Backend 
+**Amrutha Sreedharane** | *Backend* 
 <br>
 <br>
-Jaemin Goh          | Backend, Frontend
+**Jaemin Goh**          | *Backend | Frontend*
 <br>
 <br>
-Jenni Rethi         | Backend, Frontend
+**Jenni Rethi**         | *Backend | Frontend*
 <br>
 <br>
-Sonam Benakatti     | Frontend
+**Sonam Benakatti**     | *Frontend*
 <br>
 <br>
-Ruchi Shekar        | Frontend
+**Ruchi Shekar**        | *Frontend*
 
 ---
 ## Demonstration
