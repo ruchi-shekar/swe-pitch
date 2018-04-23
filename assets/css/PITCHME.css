@@ -1,4 +1,5 @@
 /*
+
  * GitPitch Slideshow Custom CSS Styling
  *
  * For details, visit Wiki:
@@ -21,6 +22,7 @@
 .reveal .slides {
   text-align: left;
   color: white;
+  font-size: 0.5em;
 }
 
 .reveal .slides section .code-presenting-annotation {
