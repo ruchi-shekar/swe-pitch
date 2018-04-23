@@ -33,7 +33,7 @@ We allow the user to find a place to grab a coffee, and then head over to a near
 
 - What did we learn?
   - Learned a lot fo new languages and frameworks.
-  - Learned extensively about version control and handling merge conflicts.
+  - Learned about version control and handling merge conflicts.
   - Learned how to create a dynamic website from scratch.
 
 ---
@@ -41,7 +41,7 @@ We allow the user to find a place to grab a coffee, and then head over to a near
 ## Self Critique
 
 - What can we do better?
-  - Could have researched the frameworks more before jumping in to code.
+  - Could have researched the frameworks more before starting.
   - Could have added more features/visualizations.
   - Could have learned more about the tools we used.
 
