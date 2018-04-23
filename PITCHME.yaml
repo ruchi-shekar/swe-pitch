@@ -7,7 +7,7 @@
 theme : moon
 theme-override : assets/css/PITCHME.css
 # logo : assets/image/logo.png
-background : assets/image/cup.jpg
+background : assets/image/cup.jpeg
 background-size : cover
 highlight : atom-one-dark
 transition : none
