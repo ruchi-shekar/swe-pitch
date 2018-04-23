@@ -11,16 +11,11 @@ We allow the user to find a place to grab a coffee, and then head over to a near
 
 ## Developers
 <br>
-#### Amrutha Sreedharane
-- ##### Backend 
-#### Jaemin Goh
-- ##### Backend, Frontend
-#### Jenni Rethi
-- ##### Backend, Frontend
-#### Sonam Benakatti
-- ##### Frontend
-#### Ruchi Shekar
-- ##### Frontend
+#### Amrutha Sreedharane : Backend 
+#### Jaemin Goh : Backend, Frontend
+#### Jenni Rethi : Backend, Frontend
+#### Sonam Benakatti : Frontend
+#### Ruchi Shekar : Frontend
 
 ---
 ## Demonstration
