@@ -51,7 +51,7 @@ We allow the user to find a place to grab a coffee, and then head over to a near
 - **What can we do better?**
   - Could have researched the frameworks more before starting.
   - Could have added more features/visualizations.
-  - Could have learned more about the tools we used.
+  - Could have made our website more consistent throughout.
 
 - **What puzzles us?**
   - Webpack and the bundle.js
