@@ -60,7 +60,7 @@ We allow the user to find a place to grab a coffee, and then head over to a near
 
 ---
 
-## Other Critique
+## Are We Done Yet? Critique
 
 - **What did they do well?**
   - There website looks very clean and put together
@@ -73,7 +73,7 @@ We allow the user to find a place to grab a coffee, and then head over to a near
 
 ---
 
-## Other Critique
+## Are We Done Yet? Critique
 
 - **What can they do better?**
   - Cross browser and mobile compatiblity
