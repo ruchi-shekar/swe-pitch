@@ -40,18 +40,18 @@ We allow the user to find a place to grab a coffee, and then head over to a near
   - Asked questions when we got stuck
 
 - **What did we learn?**
-  - Learned a lot fo new languages and frameworks.
-  - Learned about version control and handling merge conflicts.
-  - Learned how to create a dynamic website from scratch.
+  - Learned a lot fo new languages and frameworks
+  - Learned about version control and handling merge conflicts
+  - Learned how to create a dynamic website from scratch
 
 ---
 
 ## Self Critique
 
 - **What can we do better?**
-  - Could have researched the frameworks more before starting.
-  - Could have added more features/visualizations.
-  - Could have made our website more consistent throughout.
+  - Could have researched the frameworks more before starting
+  - Could have added more features/visualizations
+  - Could have made our website more consistent throughout
 
 - **What puzzles us?**
   - Webpack and the bundle.js
@@ -63,9 +63,9 @@ We allow the user to find a place to grab a coffee, and then head over to a near
 ## Are We Done Yet? Critique
 
 - **What did they do well?**
-  - There website looks very clean and put together
+  - Their website looks very clean and put together
   - Very useful idea
-  - Tie all three of their models together really well
+  - Ties all three of their models together really well
 
 - **What did we learn from their API/website?**
   - Learned about flask-restless
