@@ -35,7 +35,7 @@ We allow the user to find a place to grab a coffee, and then head over to a near
 
 #### Mocha
 
-?image=assets/image/mocha.png
+![Image](assets/image/mocha.png)
 
 ---
 
