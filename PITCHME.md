@@ -31,6 +31,12 @@ We allow the user to find a place to grab a coffee, and then head over to a near
 [espressoyoself.me](http://espressoyoself.me)
 
 ---
+## Testing
+
+#### Mocha
+![Logo](assets/logo.jpg)
+
+---
 
 ## Self Critique
 
@@ -90,4 +96,4 @@ We allow the user to find a place to grab a coffee, and then head over to a near
 [espressoyoself.me/visualization](http://espressoyoself.me/shops)
 
 ---
-## Questions?
+## Thanks!
