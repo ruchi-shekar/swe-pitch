@@ -42,7 +42,7 @@ We allow the user to find a place to grab a coffee, and then head over to a near
 
 #### Selenium
 
-![Image](assets/image/selenium.png).file&size=50% 50%
+![Image](assets/image/selenium.png){:height="50%" width="50%"}
 
 ---
 ## Testing
