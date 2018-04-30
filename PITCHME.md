@@ -60,7 +60,7 @@ We allow the user to find a place to grab a coffee, and then head over to a near
   - Asked questions when we got stuck
 
 - **What did we learn?**
-  - Learned a lot fo new languages and frameworks
+  - Learned a lot of new languages and frameworks
   - Learned about version control and handling merge conflicts
   - Learned how to create a dynamic website from scratch
 
