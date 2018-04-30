@@ -31,22 +31,22 @@ We allow the user to find a place to grab a coffee, and then head over to a near
 [espressoyoself.me](http://espressoyoself.me)
 
 ---
-#### Mocha
+### Mocha
 
 ![Image](assets/image/mocha.png)
 
 ---
-#### Selenium
+### Selenium
 
 ![Image](assets/image/selenium.png)
 
 ---
-#### Postman
+### Postman
 
 ![Image](assets/image/postman.png)
 
 ---
-#### unittest
+### unittest
 
 ![Image](assets/image/postman.png)
 
