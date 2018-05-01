@@ -6,12 +6,12 @@
 ---
 ## What Are We?
 
-We allow the user to find a place to grab a coffee, and then head over to a nearby scenic view to enjoy it at. With the help of Google Places, Yelp, and Flickr we've used the power of location so that you can find a sip and a relaxing spot wherever you are. 
+We allow the user to find a place to grab a coffee, and then head over to a nearby scenic view to enjoy it at. With the help of Google Places, Yelp, and Flickr we've used the power of location so that you can find a sip and a relaxing spot wherever you are.
 ---
 
 ## Developers: The Cool Beans
 <br>
-**Amrutha Sreedharane** | *Backend* 
+**Amrutha Sreedharane** | *Backend*
 <br>
 <br>
 **Jaemin Goh**          | *Backend | Frontend*
@@ -107,6 +107,10 @@ We allow the user to find a place to grab a coffee, and then head over to a near
 ## Visualization
 
 [espressoyoself.me/visualization](http://espressoyoself.me/visualization)
+
+---
+#### Visualization
+![Image](assets/image/vis.png)
 
 ---
 ## Thanks!
